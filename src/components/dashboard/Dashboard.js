@@ -9,7 +9,9 @@ import {
   ArrowTrendingDownIcon,
   ClockIcon,
   ShieldCheckIcon,
-  DocumentChartBarIcon
+  DocumentChartBarIcon,
+  CameraIcon,
+  ChartBarIcon
 } from '@heroicons/react/24/outline';
 import { XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, AreaChart, Area } from 'recharts';
 import { useAuth } from '../../contexts/AuthContext';
